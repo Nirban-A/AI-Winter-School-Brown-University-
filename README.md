@@ -1,6 +1,8 @@
 ## 2025 AI Winter School 
 >   Hosted by the Center for the Fundamental Physics of the Universe, Brown University/Department of Physics
 
+This repository will contain all the materials covered in this Winter School.
+
 Link: [Click Here](https://indico.physics.brown.edu/e/AIWinterSchool2025)
 
 Recordings of all sessions will be uploaded to YouTube and shared on the event website.
