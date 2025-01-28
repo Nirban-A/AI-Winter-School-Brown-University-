@@ -3,7 +3,7 @@
 
 This repository will contain all the materials covered in this Winter School.
 
-Link: [Click Here](https://indico.physics.brown.edu/e/AIWinterSchool2025)
+Winter School's Website: [Click Here](https://indico.physics.brown.edu/e/AIWinterSchool2025)
 
 Recordings of all sessions will be uploaded to YouTube and shared on the event website.
 
