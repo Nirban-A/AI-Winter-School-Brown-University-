@@ -1,0 +1,5 @@
+# MODEL_NAME = "mistral"
+MODEL_NAME = "llama3.1"
+OPENAI_MODEL_NAME = "gpt-4o-mini"
+VECTORDB_DIR_PATH = "./vectorDBs"
+DATA_DIR_PATH = "./data"
